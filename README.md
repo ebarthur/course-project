@@ -29,5 +29,3 @@ Deploy various skills and techniques, including graphs and plots, to extract mea
 
 ### 8. Reporting:
 Use Markdown to report and provide insights for all plots and graphs obtained.
-
-## How to Run
