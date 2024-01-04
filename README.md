@@ -1,5 +1,5 @@
 # Python Course Project
-`Exploratory data analysis on red wine dataset`
+## `Exploratory data analysis on red wine dataset`
 ## Task Description
 
 ### 1. Provide Personal Information:
